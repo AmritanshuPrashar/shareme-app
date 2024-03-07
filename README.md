@@ -2,7 +2,7 @@
 
 Image sharing social media platform where you can upload multiple types of Images (JPG, JPEG, SVG, PNG, GIF or TIFF) and download others images, save them and react on them. 
 
-Try it : [Demo](https://https://shareme.amriwtf.me//)
+Try it : [Demo](https://shareme.geekamri.tech/)
 
 ## Installation :
 
